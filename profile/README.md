@@ -5,7 +5,7 @@ Spes Robotics brings autonomy to mobile robots and cobots, from simulation to de
 - Simulation and digital twin environments
 - Computer vision and machine learning for perception and control
 
-## Let's Collaborate
+## Collaborate
 We collaborate with companies and research teams to design, implement, and scale custom robotics solutions.
 
 <p align="left">
